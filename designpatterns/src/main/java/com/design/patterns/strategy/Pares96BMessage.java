@@ -16,6 +16,7 @@ public class Pares96BMessage implements  ParesMessage{
     private void init() {
         this.config="配置文件96B";
 
+
     }
 
 
